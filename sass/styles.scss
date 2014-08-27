@@ -4,13 +4,22 @@
 /* Global styles
 /* ----------------------------------------------------------------------*/
 
+/* Compass */
 @import "compass";
+
+/* Assets */
 @import "assets/normalize";
 @import "assets/bootstrap";
 
-h1 {
-	color: #CDCDCD;
-}
+/* Fonts */
+
+/* Theme */
+@import "theme/settings";
+@import "theme/modules";
+@import "theme/header";
+@import "theme/main";
+@import "theme/footer";
+
 
 
 /* ----------------------------------------------------------------------*/
