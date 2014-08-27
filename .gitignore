@@ -2,7 +2,8 @@
 compass_app_log.txt
 config.rb
 images/
-/.sass-cache/*
+.sass-cache
+.sass-cache/*
 PSD/
 .DS_Store
 *.zip
