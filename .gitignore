@@ -1,0 +1,9 @@
+# Comment
+compass_app_log.txt
+config.rb
+images/
+.sass-cache/
+PSD/
+.DS_Store
+*.zip
+*.gz
